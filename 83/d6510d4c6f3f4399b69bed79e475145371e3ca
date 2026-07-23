@@ -1,0 +1,21 @@
+playground/wasm/index.html
+  s_c72808b360886c::t_6b6a21ec065ecd 66-80,92-94,119-135
+playground/wasm/__tests__/wasm.spec.ts
+  s_c72808b360886c::t_4cb7b3cc6e7e35 68-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "83d6510d4c6f3f4399b69bed79e475145371e3ca",
+  "prompts": {},
+  "sessions": {
+    "s_c72808b360886c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_073aff3f2ffeaslvkvE1MtzFEF",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Guy Bedford <gbedford@cloudflare.com>"
+    }
+  }
+}
