@@ -1,0 +1,33 @@
+docs/guide/features.md
+  s_f377548a1283dd::t_8707022bdc6228 666,682-683,694-725,761
+packages/vite/src/node/plugins/wasm.ts
+  s_f377548a1283dd::t_ed88df9345cfca 3-6,12,18,29-32,50-69,73-77,86-97,119-134,147-155,168-218,224,235,237,239,244,250,275-281
+playground/wasm/__tests__/wasm.spec.ts
+  s_c72808b360886c::t_4cb7b3cc6e7e35 68-85
+playground/wasm/index.html
+  s_c72808b360886c::t_6b6a21ec065ecd 66-80,92-94,160-179
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "684b2123b1821c3d85b2889bbaf795c6ca3e2c49",
+  "prompts": {},
+  "sessions": {
+    "s_c72808b360886c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_073aff3f2ffeaslvkvE1MtzFEF",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Guy Bedford <gbedford@cloudflare.com>"
+    },
+    "s_f377548a1283dd": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_06a5e4b24ffeECAArMiRRl0wzy",
+        "model": "claude-fable-5"
+      },
+      "human_author": "Guy Bedford <gbedford@cloudflare.com>"
+    }
+  }
+}
